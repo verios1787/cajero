@@ -47,7 +47,7 @@ if acceso_concedido:
         
          if opcion == 2:
             print(f"Saldo disponible:$ {cajero.consultar_saldo()}")
-    
+            
          if opcion == 3:
              print("Gracias por venir retire su tarjeta")
          break
